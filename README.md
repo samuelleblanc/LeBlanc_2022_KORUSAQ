@@ -11,3 +11,4 @@ For the KORUS-AQ paper publication, based on the preprint:
 
 The main code is the jupyter notebook: LeBlanc_2022_Airborne_KORUS_AOD_fine_coarse_autocorr_for_publication.ipynb
 
+The data used here can be found at: https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, DOI: 10.5067/Suborbital/KORUSAQ/DATA01
